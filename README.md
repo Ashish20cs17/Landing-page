@@ -1,2 +1,2 @@
-# Amazon-Clone
-This is a amazon clone 
+# Landing Page 
+This is a amazon Sell product
